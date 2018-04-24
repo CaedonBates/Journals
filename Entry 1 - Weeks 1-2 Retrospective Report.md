@@ -21,7 +21,7 @@ Here, I'll discuss in greater detail the more noteworthy things I did this week:
 
  
 
-  ![1524539613435](C:\Users\CAEDON~1\AppData\Local\Temp\1524539613435.png)
+  ![1524539613435](https://image.ibb.co/eommoc/1524539613435.png)
 
  
   ​ As you can see, there's really not a whole lot going on onscreen. There's the text, and that's about it. By minimizing the       amount of interaction with the graphical interface, markdown makes writing feel extremely smooth. I'm using an especially   minimal editor called *Typora* which adds a few shortcuts for things like *italics*, **bold**, <u>and underline</u>, and displays only the text with an option to view both plain-text markdown code, and formatted text as shown above. This minimal, largely text-only interface is common among markdown editors and is what brings a lot of people to markdown as their primary writing tool. This is in stark contrast to my experience in Word document editors such as Word and Google Docs, wherein I regularly have to break my flow of thought in order to interact with the graphical elements. Writing in markdown, my hands barely leave the keyboard. This makes for a pretty dramatic improvement, especially as somebody in particular who tends to struggle with focus and attention. I will likely start doing much more work in notebooks written in markdown using Typora or another minimal editor just because of how simple and enjoyable it is to work this way.
